@@ -6,4 +6,3 @@ Olá 👋
  • <a href="linkedin.com/in/lindson-cardoso-739334169">LinkIdin</a> <br>
  • <a href="lindsoncardoso.al@gmail.com">lindsoncardoso.al@gmail.com</a>
 </p>
-![]("https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif")
