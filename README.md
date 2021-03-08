@@ -6,5 +6,3 @@ Olá 👋
  • <a href="linkedin.com/in/lindson-cardoso-739334169">LinkIdin</a> <br>
  • <a href="lindsoncardoso.al@gmail.com">lindsoncardoso.al@gmail.com</a>
 </p>
-
-[![Estatísticas GitHub de Anurag](https://github-readme-stats.vercel.app/api ? Username = LindsonCardoso)](https://github.com/anuraghazra/github-readme-stats)
