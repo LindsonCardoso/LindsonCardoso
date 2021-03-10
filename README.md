@@ -1,4 +1,4 @@
-Olá 👋
+Hello 👋
 
 <h3>👨‍💻 Studying ReactNative, ReactJs and NodeJs <br></h3>
 
