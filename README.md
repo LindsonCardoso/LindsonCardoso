@@ -1,6 +1,6 @@
-<h1>Hi there👋<h1>
+<h1>Hi there 👋<h1>
 
-<h3>👨‍💻 Studying ReactNative, ReactJs, NodeJs  e Delphi <br></h3>
+
 
 ##
 
